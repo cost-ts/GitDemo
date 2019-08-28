@@ -1,6 +1,6 @@
 public class first{
 	public static void main(String[] args){
 		System.out.println("Hello Git");
-		System.out.println("角色A做了第一次修改");
+		System.out.println("other modified this file");
 	}
 }
